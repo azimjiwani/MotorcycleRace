@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: c745dbc477f4245129a0faff6578f0ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cactus Segment
+    100002: Cactus Segment.001
+    100004: Cactus Segment.002
+    100006: Cactus Segment.003
+    100008: Fence Segment
+    100010: Fence Segment.001
+    100012: Fence Segment.002
+    100014: Fence Segment.003
+    100016: Fence Segment.004
+    100018: Fence Segment.005
+    100020: //RootNode
+    100022: Powerline Segment
+    100024: Powerline Segment.001
+    100026: Powerline Segment.002
+    100028: Powerline Segment.003
+    100030: Powerline Segment.004
+    100032: Powerline Segment.005
+    100034: Road Segment
+    100036: Road Segment.001
+    100038: Road Segment.002
+    100040: Road Segment.003
+    100042: Road Segment.004
+    100044: Road Segment.005
+    400000: Cactus Segment
+    400002: Cactus Segment.001
+    400004: Cactus Segment.002
+    400006: Cactus Segment.003
+    400008: Fence Segment
+    400010: Fence Segment.001
+    400012: Fence Segment.002
+    400014: Fence Segment.003
+    400016: Fence Segment.004
+    400018: Fence Segment.005
+    400020: //RootNode
+    400022: Powerline Segment
+    400024: Powerline Segment.001
+    400026: Powerline Segment.002
+    400028: Powerline Segment.003
+    400030: Powerline Segment.004
+    400032: Powerline Segment.005
+    400034: Road Segment
+    400036: Road Segment.001
+    400038: Road Segment.002
+    400040: Road Segment.003
+    400042: Road Segment.004
+    400044: Road Segment.005
+    2100000: Cactus Color
+    2100002: Road Desert Color
+    2100004: Road Base Color
+    2100006: Road Paint Color
+    2100008: Powerline Cable Colors
+    2100010: Powerline Color
+    2100012: Fence Color
+    2300000: Cactus Segment
+    2300002: Cactus Segment.001
+    2300004: Cactus Segment.002
+    2300006: Cactus Segment.003
+    2300008: Fence Segment
+    2300010: Fence Segment.001
+    2300012: Fence Segment.002
+    2300014: Fence Segment.003
+    2300016: Fence Segment.004
+    2300018: Fence Segment.005
+    2300020: Powerline Segment
+    2300022: Powerline Segment.001
+    2300024: Powerline Segment.002
+    2300026: Powerline Segment.003
+    2300028: Powerline Segment.004
+    2300030: Powerline Segment.005
+    2300032: Road Segment
+    2300034: Road Segment.001
+    2300036: Road Segment.002
+    2300038: Road Segment.003
+    2300040: Road Segment.004
+    2300042: Road Segment.005
+    3300000: Cactus Segment
+    3300002: Cactus Segment.001
+    3300004: Cactus Segment.002
+    3300006: Cactus Segment.003
+    3300008: Fence Segment
+    3300010: Fence Segment.001
+    3300012: Fence Segment.002
+    3300014: Fence Segment.003
+    3300016: Fence Segment.004
+    3300018: Fence Segment.005
+    3300020: Powerline Segment
+    3300022: Powerline Segment.001
+    3300024: Powerline Segment.002
+    3300026: Powerline Segment.003
+    3300028: Powerline Segment.004
+    3300030: Powerline Segment.005
+    3300032: Road Segment
+    3300034: Road Segment.001
+    3300036: Road Segment.002
+    3300038: Road Segment.003
+    3300040: Road Segment.004
+    3300042: Road Segment.005
+    4300000: Cactus Segment.003
+    4300002: Road Segment.005
+    4300004: Powerline Segment.005
+    4300006: Fence Segment.005
+    4300008: Cactus Segment.002
+    4300010: Fence Segment.004
+    4300012: Powerline Segment.004
+    4300014: Road Segment.004
+    4300016: Road Segment.003
+    4300018: Powerline Segment.003
+    4300020: Fence Segment.003
+    4300022: Fence Segment.002
+    4300024: Powerline Segment.002
+    4300026: Road Segment.002
+    4300028: Road Segment.001
+    4300030: Powerline Segment.001
+    4300032: Fence Segment.001
+    4300034: Cactus Segment.001
+    4300036: Fence Segment
+    4300038: Cactus Segment
+    4300040: Powerline Segment
+    4300042: Road Segment
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
